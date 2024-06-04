@@ -1,5 +1,5 @@
 # RTF-to-PDF-Converter
-Converts RTF Files to PDF using Python and comtypes
+This project allows you to convert RTF Files to PDF using Python and the comtypes library
 
 ## Set-up
 1. Install Python 3.9+
